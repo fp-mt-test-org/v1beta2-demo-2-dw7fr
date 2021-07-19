@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: v1beta2-demo-2-dw7fr
+  description: "testing"
+  annotations:
+    github.com/project-slug: "testing"
+    backstage.io/techdocs-ref: url:"testing"
+    backstage.io/kubernetes-id: "testing"
+spec:
+  type: library
+  lifecycle: experimental
+  owner: catalog-info-owner
